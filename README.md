@@ -1,4 +1,6 @@
-# 👋 Hi, I'm [Your Name]  
+![Project Demo GIF]([https://giphy.com/gifs/a4CZLNDrNxWpwsh0Ck](https://i.gifer.com/1j6F.gif))
+
+# 👋 Hi, I'm Badreddine KHMILA
 ### Telecommunications Engineer | Fullstack Developer | Tech Enthusiast  
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions that bridge the gap between telecommunications and software development. Whether it's designing robust networks or crafting seamless web applications, I love turning ideas into reality.  
@@ -8,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ## 🚀 **About Me**  
 - 🎓 Telecommunications Engineer with a strong foundation in network design, protocols, and signal processing.  
 - 💻 Fullstack Developer skilled in building scalable web applications using modern technologies.  
-- 🌐 Passionate about IoT, 5G, and cloud-based solutions.  
+- 🌐 Passionate about web, mobile and cloud-based solutions.  
 - 🛠️ Constantly learning and exploring new tools and frameworks.  
 - 🎯 Goal: To create impactful projects that solve real-world problems.  
 
@@ -27,8 +29,6 @@ Here are some of the technologies I work with:
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 
 ### **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,7 +48,7 @@ Here are some of the technologies I work with:
 🔗 **Live Demo**: [Link to Live Demo](#)  
 📂 **Repository**: [Link to GitHub Repo](#)  
 🎥 **GIF Demo**:  
-![Project Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTIwYjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1YjY5YjI1Yj
+![Project Demo GIF](https://giphy.com/gifs/a4CZLNDrNxWpwsh0Ck)
 
 <!--
 **badereddinkhmila/badereddinkhmila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
