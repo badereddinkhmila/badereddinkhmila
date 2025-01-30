@@ -61,8 +61,9 @@ Welcome to my GitHub! I'm a passionate developer specializing in **scalable dist
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white&scale=1.5" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&scale=1.5" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&scale=1.5" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=
-   
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&scale=1.5" />
+</div>
+
 ---
 <!--
 ## 🌟 **Featured Projects**  
@@ -158,9 +159,13 @@ I aim to contribute to **open-source projects** that democratize technology. Ult
 ## 🏅 **Contact & Connect with Me**
 
 ### 💼 **Let's work together!**
+
 - **LinkedIn**: [badreddine-khmila](https://www.linkedin.com/in/badreddine-khmila-330821189)
+
 <!--- **Twitter**: [@BadreddineKhmila](https://twitter.com/BadreddineKhmila)-->
+
 - **Email**: [khmila.badreddin@gmail.com](khmila.badreddin@gmail.com)
+
 <!--- **Website/Portfolio**: [badreddine.dev](https://badreddine.dev)-->
 <!--
 
