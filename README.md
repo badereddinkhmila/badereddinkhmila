@@ -158,7 +158,7 @@ I aim to contribute to **open-source projects** that democratize technology. Ult
 ## 🏅 **Contact & Connect with Me**
 
 ### 💼 **Let's work together!**
-- **LinkedIn**: [badreddine-khmila](www.linkedin.com/in/badreddine-khmila-330821189)
+- **LinkedIn**: [badreddine-khmila](https://www.linkedin.com/in/badreddine-khmila-330821189)
 <!--- **Twitter**: [@BadreddineKhmila](https://twitter.com/BadreddineKhmila)-->
 - **Email**: [khmila.badreddin@gmail.com](khmila.badreddin@gmail.com)
 <!--- **Website/Portfolio**: [badreddine.dev](https://badreddine.dev)-->
